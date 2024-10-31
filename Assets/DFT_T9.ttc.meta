@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff384a97604e43b48b0192b9a1d6cede
+timeCreated: 1546355543
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFKanTingLiu-B5
+  fontNames:
+  - DFKanTingLiu-B5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
